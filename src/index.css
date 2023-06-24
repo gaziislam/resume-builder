@@ -9,3 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.ReactModal__Overlay {
+  background-color: rgb(84 24 24 / 75%) !important;
+}
